@@ -6,7 +6,7 @@
   --normal-font: 400;
   --bold-font: 700;
   --bolder-font: 900;
-  --bg-color: #c2cdf4;
+  --bg-color: #ffffff;
   --primary-color: #000108;
   --secondary-color: #efeae8;
   --primary-shadow: #3c44a3;
@@ -108,8 +108,8 @@ nav ul li {
 }
 
 .hero img {
-  height: 37.5rem;
-  width: 37.5rem;
+  height: 30.5rem;
+  width: 30.5rem;
 }
 
 .bio {
